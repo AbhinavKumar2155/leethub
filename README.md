@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AbhinavKumar2155/leethub/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/AbhinavKumar2155/leethub/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/AbhinavKumar2155/leethub/tree/master/3525-find-x-value-of-array-ii) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/AbhinavKumar2155/leethub/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
