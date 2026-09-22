@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/AbhinavKumar2155/leethub/tree/master/0704-binary-search) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AbhinavKumar2155/leethub/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3524-find-x-value-of-array-i](https://github.com/AbhinavKumar2155/leethub/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/AbhinavKumar2155/leethub/tree/master/3525-find-x-value-of-array-ii) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/AbhinavKumar2155/leethub/tree/master/0704-binary-search) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AbhinavKumar2155/leethub/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Sliding Window
 |  |
