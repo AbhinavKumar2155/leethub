@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/AbhinavKumar2155/leethub/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AbhinavKumar2155/leethub/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2409-count-days-spent-together](https://github.com/AbhinavKumar2155/leethub/tree/master/2409-count-days-spent-together) |
 | [3524-find-x-value-of-array-i](https://github.com/AbhinavKumar2155/leethub/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/AbhinavKumar2155/leethub/tree/master/3525-find-x-value-of-array-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/AbhinavKumar2155/leethub/tree/master/3886-sum-of-sortable-integers) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AbhinavKumar2155/leethub/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2409-count-days-spent-together](https://github.com/AbhinavKumar2155/leethub/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/AbhinavKumar2155/leethub/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/AbhinavKumar2155/leethub/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Greedy
