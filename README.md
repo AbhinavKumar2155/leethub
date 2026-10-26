@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/AbhinavKumar2155/leethub/tree/master/0014-longest-common-prefix) |
 | [0704-binary-search](https://github.com/AbhinavKumar2155/leethub/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AbhinavKumar2155/leethub/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1254-number-of-closed-islands](https://github.com/AbhinavKumar2155/leethub/tree/master/1254-number-of-closed-islands) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/AbhinavKumar2155/leethub/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/AbhinavKumar2155/leethub/tree/master/0151-reverse-words-in-a-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AbhinavKumar2155/leethub/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2409-count-days-spent-together](https://github.com/AbhinavKumar2155/leethub/tree/master/2409-count-days-spent-together) |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/AbhinavKumar2155/leethub/tree/master/0151-reverse-words-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AbhinavKumar2155/leethub/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
