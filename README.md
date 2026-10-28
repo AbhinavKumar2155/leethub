@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AbhinavKumar2155/leethub/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/AbhinavKumar2155/leethub/tree/master/0014-longest-common-prefix) |
 | [0704-binary-search](https://github.com/AbhinavKumar2155/leethub/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AbhinavKumar2155/leethub/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AbhinavKumar2155/leethub/tree/master/0001-two-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AbhinavKumar2155/leethub/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AbhinavKumar2155/leethub/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AbhinavKumar2155/leethub/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
