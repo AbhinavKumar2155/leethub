@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/AbhinavKumar2155/leethub/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AbhinavKumar2155/leethub/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AbhinavKumar2155/leethub/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1882-process-tasks-using-servers](https://github.com/AbhinavKumar2155/leethub/tree/master/1882-process-tasks-using-servers) |
 | [3524-find-x-value-of-array-i](https://github.com/AbhinavKumar2155/leethub/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/AbhinavKumar2155/leethub/tree/master/3525-find-x-value-of-array-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/AbhinavKumar2155/leethub/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -131,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/AbhinavKumar2155/leethub/tree/master/0175-combine-two-tables) |
 | [0182-duplicate-emails](https://github.com/AbhinavKumar2155/leethub/tree/master/0182-duplicate-emails) |
 | [0596-classes-with-at-least-5-students](https://github.com/AbhinavKumar2155/leethub/tree/master/0596-classes-with-at-least-5-students) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1882-process-tasks-using-servers](https://github.com/AbhinavKumar2155/leethub/tree/master/1882-process-tasks-using-servers) |
 <!---LeetCode Topics End-->
